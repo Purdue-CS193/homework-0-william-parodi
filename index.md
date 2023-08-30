@@ -1,8 +1,11 @@
-## Welcome to Will's Website
+## William Parodi's first CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#My Favorite Things About CS193
+- Teaches me how to use terminal
+- Teaches me how to use git
+- Small and engaging class
+- Taught by actual students who use the tools often
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
